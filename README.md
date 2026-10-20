@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="assets/banner.jpg" alt="LRN CORP Banner" width="100%" />
+</div>
+
+<br/>
+
 ## Hi there 👋
 
 <!--
