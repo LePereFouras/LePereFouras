@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/LePereFouras">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=E50914&center=true&vCenter=true&width=550&lines=%3E+root%40lrn-corp%3A~%23+whoami;Messaoudi+Youssef+%7C+Software+Engineer;Epitech+MSc+Student+%26+Freelancer;Full-Stack+Web%2C+Mobile+%26+Cybersecurity;Welcome+to+LRN+CORP+Terminal..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=E50914&center=true&vCenter=true&width=550&lines=%3E+root%40lrn-corp%3A~%23+whoami;Youssencore+%7C+Software+Engineer;Epitech+MSc+Student+%26+Freelancer;Full-Stack+Web%2C+Mobile+%26+Cybersecurity;Welcome+to+LRN+CORP+Terminal..." alt="Typing SVG" />
   </a>
 </div>
 
@@ -33,7 +33,7 @@
 ╭──────────────────────────────────────────────────────────╮
 │  [root@lrn-corp:~#] cat /etc/identity.sys                │
 ├──────────────────────────────────────────────────────────┤
-│  • Identity    : Messaoudi Youssef                       │
+│  • Identity    : Youssencore                             │
 │  • Entity      : LRN CORP (lrnshop.eu)                   │
 │  • Role        : Full-Stack Engineer & Cyber Enthusiast  │
 │  • Education   : Epitech MSc Pro (Lille, France) 🇫🇷      │
@@ -95,5 +95,5 @@
 ---
 
 <div align="center">
-  <sub>"Control is an illusion. Building is the only reality." — <b>LRN CORP</b></sub>
+  <sub>"Control is an illusion. Building is the only reality..." — <b>LRN CORP</b></sub>
 </div>
